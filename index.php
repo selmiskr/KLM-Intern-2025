@@ -7,7 +7,7 @@
     <!-- <link rel="stylesheet" href="assets/css/style.css"> -->
     <style>
         .data {
-            background: url(images/logo_klm.jpg) fixed;
+            background: url(images/logo_klm2.jpg) fixed;
             background-size: cover; /* Zorgt ervoor dat de afbeelding het volledige scherm bedekt */
             background-repeat: no-repeat; /* Voorkomt herhaling */
             background-position: center; /* Centreert de afbeelding */
