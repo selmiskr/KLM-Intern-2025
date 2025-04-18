@@ -19,7 +19,7 @@ if (!isset($basePath)) {
     <header>
         <nav>
             <div class="logo">
-            <a href="<?php echo $basePath; ?>"><img src="<?php echo $basePath; ?>/images/logo_klm2.png" alt="KLM Logo" class="logo"></a>
+            <a href="<?php echo $basePath; ?>"><img src="<?php echo $basePath; ?>/images/logo2.png" alt="KLM Logo" class="logo"></a>
             </div>
             <ul>
                 <li><a href="<?php echo $basePath; ?>/pages/safety.php">Safety</a></li>
