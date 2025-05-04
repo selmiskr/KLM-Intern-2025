@@ -22,7 +22,7 @@ if (!isset($basePath)) {
         <div class="video-container">
 
             <video controls autplay>
-                <source src="../assets/video/safety.mp4" type="video/mp4">
+                <source src="../assets/video/freecompress-safety.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
 
